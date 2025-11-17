@@ -276,7 +276,7 @@ This project is created for educational purposes.
 
 ## 👤 Author
 
-[Your Name]
+[Subhan Liaqat]
 PhD Student - Data Science
 November 2025
 
